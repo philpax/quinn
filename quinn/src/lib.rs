@@ -58,6 +58,7 @@ macro_rules! ready {
 mod connection;
 mod endpoint;
 mod mutex;
+mod notify;
 mod recv_stream;
 mod send_stream;
 mod work_limiter;
